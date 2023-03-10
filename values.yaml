@@ -1,5 +1,5 @@
 name: "nginx"
 replicas: 3
-label: nginx-label
+label: "nginx-label"
 image: "nginx:1.14.2"
 namespace: "nginx"
