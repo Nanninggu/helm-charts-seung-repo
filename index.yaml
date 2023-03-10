@@ -3,12 +3,12 @@ entries:
   seung-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-10T10:45:05.1500181+09:00"
+    created: "2023-03-10T10:54:12.7904709+09:00"
     description: A Helm chart for Kubernetes
-    digest: d39f5fa98853ef0e0f31b16fa41eded356ab316cec4e1dab0ebee2361ad602e1
+    digest: d2e603458139cc7cb8f9fc428a96b14694b0c7eb4e1582a85cd08517cd7a820e
     name: seung-helm-chart
     type: application
     urls:
     - seung-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-10T10:45:05.1494593+09:00"
+generated: "2023-03-10T10:54:12.7904709+09:00"
